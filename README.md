@@ -12,7 +12,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python,wordpress,git,github,vscode,mongodb,express,react,nodejs,nextjs,docker,postgres,azure,postman,oracle,notion,linux,windows,npm,tailwind,stackoverflow,vercel,cloudflare&perline=14" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python,wordpress,git,github,vscode,mongodb,express,react,nodejs,nextjs,docker,postgres,azure,postman,notion,linux,windows,npm,tailwind,stackoverflow,vercel,cloudflare&perline=14" alt="Tech stack icons" />
 </p>
 
 
