@@ -11,23 +11,11 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python,wordpress,git,github,vscode,mongodb,express,react,nodejs,nextjs,docker,postgres,azure,postman,notion,linux,windows,npm,tailwind,stackoverflow,vercel,cloudflare&perline=14" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python,wordpress,git,github,vscode,mongodb,express,react,nodejs,nextjs,docker,postgres,azure,postman,oracle,notion,linux,windows,npm,tailwind,stackoverflow,vercel,cloudflare&perline=14" alt="Tech stack icons" />
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
 
-### ​​ Tech & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <!-- Add more icons -->
-</p>
 
 
 ## 📊 GitHub Stats
@@ -40,5 +28,5 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/harushi-singla-2172852a9)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
+
 
