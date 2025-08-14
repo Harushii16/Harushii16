@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-link.gif" alt="banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/63138398/236623085-7a6e89ca-0add-4a5e-b91d-2ef5b36b15b1.png" alt="banner" width="100%" />
 </div>
 
 ## Hi there!👋🏻 I'm Harushi Singla.
