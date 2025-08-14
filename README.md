@@ -4,10 +4,11 @@
 
 ## Hi there!👋🏻 I'm Harushi Singla.
 
+- 📫 Pre-Final Year CSE student at Chitkara University, Punjab
 - 🔭 I’m currently working on **cool open-source projects**
 - 🌱 I’m learning **React, Next.js, and Data Structures**
 - 💬 Ask me about **Web Dev, DSA, or Freelancing**
-- 📫 Reach me at **your.email@example.com**
+
 
 ### 🧰 Tech Stack
 <p align="center">
