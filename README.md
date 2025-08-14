@@ -2,7 +2,7 @@
   <img src="https://your-image-link.gif" alt="banner" width="100%" />
 </div>
 
-## 👋 About Me
+## Hi there!👋🏻 I'm Harushi Singla.
 
 - 🔭 I’m currently working on **cool open-source projects**
 - 🌱 I’m learning **React, Next.js, and Data Structures**
