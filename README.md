@@ -21,9 +21,9 @@
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarushiSingla&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harushii16&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarushiSingla&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harushii16&layout=compact)
 
 
 
