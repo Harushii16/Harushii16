@@ -62,7 +62,7 @@
 
 ---
 
-### 🪄 Holopin Badges
+### 🪄 Hacktoberfest Badges
 <p align="center">
   <a href="https://holopin.io/@harushii16">
     <img src="https://holopin.me/harushii16" alt="@harushii16's Holopin board" />
