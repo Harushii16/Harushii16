@@ -38,11 +38,12 @@
 
 
 
- <div align="center">
-  <img src="https://user-images.githubusercontent.com/63138398/236623085-7a6e89ca-0add-4a5e-b91d-2ef5b36b15b1.png" alt="banner" width="100%" />
-</div>
+<!-- Attractive Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Harushi Singla Banner" width="100%" />
+</p>
 
-<h1 align="center">Hi there! 👋🏻 I'm Harushi Singla</h1>
+<h1 align="center">Hi there! 👋🏻 I'm <span style="color:#00b4d8;">Harushi Singla</span></h1>
 
 <p align="center">
   🚀 Pre-Final Year <b>CSE Student</b> at Chitkara University, Punjab<br>
@@ -114,4 +115,5 @@
 <p align="center">
   <i>"Code. Contribute. Connect. Create the future — one commit at a time."</i> 🚀
 </p>
+
 
