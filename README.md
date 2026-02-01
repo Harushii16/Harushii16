@@ -35,24 +35,22 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Harushii16">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harushii16&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" height="160px"/>
-  </a>
-  <a href="https://github.com/Harushii16">
-    <img src="https://streak-stats.demolab.com/?user=Harushii16&theme=radical" alt="GitHub Streak" height="160px"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harushii16&show_icons=true&theme=radical&cache_seconds=1800" height="160px"/>
+  <img src="https://streak-stats.demolab.com/?user=Harushii16&theme=radical" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harushii16&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harushii16&layout=compact&theme=radical&cache_seconds=1800" height="160px"/>
 </p>
+
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harushii16&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harushii16&theme=react-dark&hide_border=true"/>
 </p>
+
 
 ---
 
