@@ -1,52 +1,60 @@
 
-![Banner](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+</p>
 
-# Hi there! 👋🏻 I'm Harushi Singla
+<h1 align="center">Hi there! 👋🏻 I'm Harushi Singla</h1>
 
-🚀 Pre-Final Year **CSE Student** at Chitkara University, Punjab  
-🌱 Learning **React, Next.js & Data Structures**  
-💻 Working on **Open Source & MERN Stack Projects**  
-💬 Ask me about **Web Development, DSA, Freelancing**  
-📫 Reach me at **harushisingla@gmail.com**
-
----
-
-## 🧰 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,docker,azure,postman,notion,linux,windows,wordpress,cloudflare,npm)
-
----
-
-## 🪄 Hacktoberfest Badges
-[![Holopin](https://holopin.me/harushii16)](https://holopin.io/@harushii16)
+<p align="center">
+  🚀 Pre-Final Year <b>CSE Student</b> at Chitkara University, Punjab<br>
+  🌱 Learning <b>React, Next.js & Data Structures</b><br>
+  💻 Working on <b>Open Source & MERN Stack Projects</b><br>
+  💬 Ask me about <b>Web Development, DSA, Freelancing</b><br>
+  📫 <a href="mailto:harushisingla@gmail.com">harushisingla@gmail.com</a>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harushii16&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Harushii16&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harushii16&layout=compact&theme=radical)
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,docker,linux,windows,npm" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harushii16&theme=radical&no-frame=true&no-bg=true)
+### 📊 GitHub Overview (STABLE)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Harushii16?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Harushii16?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Harushii16/Harushii16?style=for-the-badge" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harushii16&theme=react-dark&hide_border=true)
+### 🏆 Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-success?style=for-the-badge" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harushi-singla-2172852a9)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Harushii16)
-[![Holopin](https://img.shields.io/badge/Holopin-00C4B3?style=for-the-badge&logo=holopin)](https://holopin.io/@harushii16)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:harushisingla@gmail.com)
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/harushi-singla-2172852a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Harushii16">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://holopin.io/@harushii16">
+    <img src="https://img.shields.io/badge/Holopin-00C4B3?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-> *"Code. Contribute. Connect. Create the future — one commit at a time."* 🚀
+<p align="center">
+  <i>"Code. Contribute. Connect. Create the future — one commit at a time."</i> 🚀
+</p>
