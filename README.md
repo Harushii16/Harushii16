@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harushii16&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harushii16&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harushii16&layout=compact)
 
@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harushii16&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
+  <img src="https://streak-stats.demolab.com/?user=Harushii16&theme=radical" alt="Top Languages" height="160px"/>
 </p>
 
 ---
