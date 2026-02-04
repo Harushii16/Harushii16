@@ -11,7 +11,6 @@
   🌱 Currently learning <b>React, Next.js & Data Structures</b><br>
   💻 Working on <b>Open Source Projects & MERN Stack Apps</b><br>
   💬 Ask me about <b>Web Development, DSA, or Freelancing</b><br>
-  📫 Reach me at <a href="mailto:harushisingla@gmail.com">harushisingla@gmail.com</a>
 </p>
 
 ---
