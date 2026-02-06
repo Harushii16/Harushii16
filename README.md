@@ -31,20 +31,24 @@
 
 ---
 
+### 📊 GitHub Analytics & Contributions
 <p align="center">
+
+  <!-- GitHub Stats -->
   <a href="https://github.com/Harushii16">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harushii16&show_icons=true&theme=radical" height="160px"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harushii16&show_icons=true&theme=radical" height="160px" />
   </a>
 
+  <!-- GitHub Streak -->
   <a href="https://github.com/Harushii16">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harushii16&theme=radical" height="160px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harushii16&theme=radical" height="160px" />
   </a>
-</p>
 
-<p align="center">
+  <!-- Top Languages -->
   <a href="https://github.com/Harushii16?tab=repositories">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harushii16&layout=compact&theme=radical" height="160px"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harushii16&layout=compact&theme=radical" height="160px" />
   </a>
+
 </p>
 
 ---
@@ -53,7 +57,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harushii16&theme=radical&no-frame=true&margin-w=15" />
 </p>
-
 
 ---
 
@@ -64,8 +67,8 @@
   </a>
 </p>
 
-
 ---
+
 
 ### 🤝 Connect With Me
 <p align="center">
