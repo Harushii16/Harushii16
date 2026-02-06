@@ -55,7 +55,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harushii16&theme=radical&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Harushii16&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ### 📈 Contribution Graph
 <p align="center">
   <a href="https://github.com/Harushii16">
-    <img src="https://github.com/Harushii16/Harushii16/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Harushii16/Harushii16/output/github-contribution-grid-snake.svg" />
   </a>
 </p>
 
