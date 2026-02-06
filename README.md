@@ -61,11 +61,7 @@
 ---
 
 ### 📈 Contribution Graph
-<p align="center">
-  <a href="https://github.com/Harushii16">
-<img src="https://raw.githubusercontent.com/Harushii16/Harushii16/output/github-contribution-grid-snake.svg" />
-  </a>
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harushii16&theme=react-dark&hide_border=true" /> </p>
 
 ---
 
