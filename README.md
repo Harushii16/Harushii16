@@ -15,18 +15,17 @@
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,docker,azure,postman,notion,linux,windows,wordpress,cloudflare,npm&perline=10" />
-</p>
-
----
-
 ### 🪄 Hacktoberfest Badges
 <p align="center">
   <a href="https://holopin.io/@harushii16">
     <img src="https://holopin.me/harushii16" alt="Holopin Badges" />
   </a>
+</p>
+
+---
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,docker,azure,postman,notion,linux,windows,wordpress,cloudflare,npm&perline=10" />
 </p>
 
 ---
